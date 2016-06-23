@@ -7,7 +7,8 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="<?php bloginfo('rss_url'); ?>" />
 <link rel="alternate" type="application/rss+xml" title="Comments RSS" href="<?php bloginfo('comments_rss2_url'); ?>" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
-<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/bower_components/dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/bower_components/animate.css/animate.min.css">
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/bower_components/bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
  <!--[if lt IE 9]>
  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>

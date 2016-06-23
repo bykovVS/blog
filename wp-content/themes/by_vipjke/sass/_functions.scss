@@ -100,7 +100,10 @@
   }
 }
 @mixin font($font){
-  @if $font == main-head {
+  @if $font == helper-head {
     font-family: 'ffad_matroregular', Arial, sans-serif;
+  }
+  @if $font == helper-main {
+    font-family: 'Open Sans Condensed', Arial, sans-serif;
   }
 }

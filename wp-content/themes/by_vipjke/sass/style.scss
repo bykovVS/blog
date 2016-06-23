@@ -8,3 +8,12 @@ Author URI: http://
 @import "_helper";
 @import "_functions";
 @import "_fonts";
+a {
+  &:hover {
+    text-decoration: none;
+  }
+  &:focus {
+    text-decoration: none;
+    outline: none;
+  }
+}

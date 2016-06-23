@@ -4,9 +4,8 @@
   -webkit-background-size: 100%;
   background-size: 100%;
   color: #ffffff;
-  height: 1000px;
   margin: 0;
-  padding: 0;
+  padding: 0 0 100px;
 
   // HEADER
 
@@ -15,19 +14,69 @@
     -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
     -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
     box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-    height: 100px;
     width: 100%;
+    margin-bottom: 50px;
     ul {
       list-style-type: none;
       margin: 0;
-      padding: 0;
+      padding: 20px 0;
+      text-align: right;
       li {
         display: inline-block;
+        margin: 0 20px;
+        a {
+          @include font(helper-main);
+          color: #fff;
+          font-size: 18px;
+          @include textShadow();
+          @include transition(.3s);
+          &:hover {
+            @include transition(.3s);
+            color: #2b9e8d;
+          }
+        }
       }
     }
   }
-  h1 {
-    @include font(main-head);
-    color: #ffffff;
-  } 
+  .helper-heading-effect {
+    position: absolute;
+    @include centering-x();
+    top: -30px;
+    height: 60px;
+    h1 {
+      @include font(helper-head);
+      color: #ffffff;
+      font-size: 45px;
+      margin: 0;
+      padding: 7px 0 0;
+      &.zoom {
+        animation-name: zoom;
+        animation-duration: 1s;
+      }
+    }
+    span {
+      @include font(helper-head);
+      color: #ffffff;
+      font-size: 45px;
+
+    }
+  }
+
+  // HELPER MAIN
+
+  .helper-main-content {
+    .helper-main-col, .helper-aside-col {
+      background: rgba(0, 0, 0, 0.33);
+      -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+      -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+      box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+      height: 1000px;
+    }
+    .helper-aside-col {
+      height: 300px;
+      position: fixed;
+      right: 50px;
+
+    }
+  }
 }
