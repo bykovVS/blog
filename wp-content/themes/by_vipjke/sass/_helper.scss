@@ -1,0 +1,33 @@
+@import "_functions";
+.page-template-helper {
+  background: url('../img/helper/helper-main-bg.jpg') no-repeat fixed;
+  -webkit-background-size: 100%;
+  background-size: 100%;
+  color: #ffffff;
+  height: 1000px;
+  margin: 0;
+  padding: 0;
+
+  // HEADER
+
+  nav.helper-nav {
+    background: rgba(0, 0, 0, 0.33);
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+    -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+    box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+    height: 100px;
+    width: 100%;
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      li {
+        display: inline-block;
+      }
+    }
+  }
+  h1 {
+    @include font(main-head);
+    color: #ffffff;
+  } 
+}

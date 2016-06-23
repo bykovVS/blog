@@ -1,0 +1,106 @@
+@mixin break-point($point){
+  @if $point == lg{
+    @media only screen and (max-width:1199px){
+      @content;
+    }
+  }
+  @else if $point == md{
+    @media only screen and (max-width:990px){
+      @content;
+    }
+  }
+  @else if $point == sm{
+    @media only screen and (max-width:767px){
+      @content;
+    }
+  }
+  @else if $point == xs{
+    @media only screen and (max-width:479px){
+      @content;
+    }
+  }
+}
+@mixin transform($transform) {
+  -webkit-transform: $transform;
+  -moz-transform: $transform;
+  -ms-transform: $transform;
+  -o-transform: $transform;
+  transform: $transform;
+}
+@mixin transition($transition) {
+  -webkit-transition: all $transition ease-in-out;
+  -moz-transition: all $transition ease-in-out;
+  -o-transition: all $transition ease-in-out;
+  transition: all $transition ease-in-out;
+}
+@mixin textShadow() {
+  text-shadow: 2px 0 4px rgba(0, 0, 0, 1);
+  -moz-text-shadow: 2px 0 4px rgba(0, 0, 0, 1);
+  -webkit-text-shadow: 2px 0 4px rgba(0, 0, 0, 1);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=2, Direction=135, Color='#000000')";
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=2, Direction=135, Color='#000000');
+}
+@mixin centering {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  @include transform(translate(-50%, -50%));
+}
+@mixin centering-x {
+  position: relative;
+  left: 50%;
+  @include transform(translateX(-50%));
+}
+@mixin centering-y {
+  position: absolute;
+  top: 50%;
+  @include transform(translateY(-50%));
+}
+@mixin border-radius($radius) {
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+}
+@mixin round($diameter){
+  display: block;
+  width: $diameter;
+  height: $diameter;
+  @include border-radius(50%);
+}
+@mixin rhomb{
+  @include transform(rotate(-45deg));
+}
+
+@mixin topix($name){
+  body{
+    background-image: url('images/#{$name}-1170px.png') top center no-repeat;
+    background-size: 1300px auto;
+  }
+  @media (max-width: 1199px) {
+    body{
+      background-image: url("images/#{$name}-970px.png");
+    }
+  }
+  @media (max-width: 991px) {
+    body{
+      background-image: url("images/#{$name}-750px.png");
+    }
+  }
+  @media (max-width: 767px) {
+    body{
+      background-image: url("images/#{$name}-480px.png");
+      background-size: 480px auto;
+    }
+  }
+  @media (max-width: 479px) {
+    body{
+      background-image: url("images/#{$name}-320px.png");
+      background-size: 320px auto;
+    }
+  }
+}
+@mixin font($font){
+  @if $font == main-head {
+    font-family: 'ffad_matroregular', Arial, sans-serif;
+  }
+}

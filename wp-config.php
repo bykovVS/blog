@@ -20,13 +20,13 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'blog');
+define('DB_NAME', 'vlad');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'blog');
+define('DB_USER', 'vlad');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', 'MTYTqKjVpBpjded6');
+define('DB_PASSWORD', 'FNBSybQe7CTEyrrb');
 
 /** Имя сервера MySQL */
 define('DB_HOST', 'localhost');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'zT)OMk8c,_?zFV##ftmZEl8LUT+iqc@xh+CHlLlXbk2f(r7tU|Bvh U6?~w?*N ]');
-define('SECURE_AUTH_KEY',  'O;Al0/L}<v1y,G!)fbL+~R0O2-n{|d<35ekg&L$y90aloTJc5kV3Gu9u>KfKLPW0');
-define('LOGGED_IN_KEY',    '$/[y`g-fw/0x1|LxEag-DrI?wW%Yx va3yV0I,@;}+[nJ&q,2*f?k[f ~->nU/!D');
-define('NONCE_KEY',        '#cYFUo_[T2~y|t_l*9Nj*9g5:l+tyhBo0%YTr>w/]hLErUHF+^jk@n*Mt3QNks  ');
-define('AUTH_SALT',        '+k@vgEaC(E;6EVLkdwx;_ifT=rPH*xty^opshc*(aj3zs*w9~^CLxk*&/(vnKFL~');
-define('SECURE_AUTH_SALT', 'DJiFz[Aj.s6[L|Tu93Cs@=&Quj1gwX/!9.Wi.I>ZxyjzNU#kV[;WeIKDU/?w${:m');
-define('LOGGED_IN_SALT',   'hMH/aGu{ra@=xhGzkopwnFeM#bXQ}&~ay8.Tx}KF-rpacAC/6,Hsw)Q0hp*>vl;z');
-define('NONCE_SALT',       '[b?W9su[b&cP+H5EX=>@b`P+,O7~>CV26{)(HN[I:)eyE 2Nu0h`6+kX)Ge]Cf:{');
+define('AUTH_KEY',         'dsf<kjgZ!W*%Y(Clc= <`Y[9f-WQ{l-b$P{Ej&=>znO&~m,2xP/j3ydOG$&5KD<&');
+define('SECURE_AUTH_KEY',  'FNxu{RhDs,B#6Z|sRkMNRMo_|*WE8^-Ah*?rR,]uvIX8~WGI76i8jefpFa;5TmAa');
+define('LOGGED_IN_KEY',    '//baBy#k(qyTBh_-n.I%GW=C&(E9(S]HM/vFkF!vrO-!FX]UW]=X/?&ft4H9w=&&');
+define('NONCE_KEY',        '(RBugbC{@;Z|s7|2N`C^Bzz= R):<g(LFm9e::Jr h&1$i$rk/QYW8KArn`.p;SN');
+define('AUTH_SALT',        'm`0,]$N5G[>3j[25nK@18U@V]7rYwhTJ=frRXb>sm@;KaIp$Sx3Mir@cdsG><lsh');
+define('SECURE_AUTH_SALT', 'qpEkXBcU]U~ux>2{?sqy_0=$<VloD8bXU4YWtJiD?(;Cz9c+a0{z;Dz5U>.m/jAx');
+define('LOGGED_IN_SALT',   '-:RJrj:0]cd*[_K=YnI!<|UH2nmAJTQF#ex,F}_!1rM>(E&^ypC|XA}i8y#.KK/h');
+define('NONCE_SALT',       '5qoW6ciWa:zFP3MH +.%+zdkiLK.4+oB]~,84 JfnAMiWpWaW,N`W&O9h=9S,i{E');
 
 /**#@-*/
 
