@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*
+Theme Name: Our Blog
+Theme URI: http://
+Description: Чистый шаблон WordPress для разработки
+Author: vipjke
+Author URI: http://
+*/
+body {
+  background: yellowgreen; }
+  body h1 {
+    font-size: 24px; }
