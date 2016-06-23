@@ -1,32 +1,4 @@
-blog.lh
-wwxxn7JdwWMqGApV
+blog
+MTYTqKjVpBpjded6
 
-Установка Gulp
-
-npm install --global gulp
-
-npm init
-
-Команда npm init создает файл package.json, который содержит информацию о проекте (описание проекта и зависимости).
-
-npm install gulp --save-dev
-
-npm install gulp-sass --save-dev
-
-npm install gulp-watch --save-dev 
-
-В gulpfile.js необходимо записать:
-
-var gulp = require('gulp'),
-    sass = require('gulp-sass'),
-    watch = require('gulp-watch');
-
-gulp.task('sass', function() {
-  return gulp.src('sass/*.scss')
-    .pipe(sass())
-    .pipe(gulp.dest('css/'))
-})
-
-gulp.task('watch', function(){
-  gulp.watch('sass/*.scss', ['sass']);
-})
+http://elemisdesign.com/demos/obscura-html/page-with-sidebar.html

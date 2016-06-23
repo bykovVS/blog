@@ -5,9 +5,13 @@ Description: Чистый шаблон WordPress для разработки
 Author: vipjke
 Author URI: http://
 */
-body {
-  background: yellowgreen;
-  h1 {
-    font-size: 24px;
-  }
+@import "_helper";
+@import "_functions";
+
+h1 {
+  transform: translate(50%, 50%);
+}
+h2:fullscreen a {
+
+  display: flex;
 }
