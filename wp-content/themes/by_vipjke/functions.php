@@ -15,13 +15,19 @@ set_post_thumbnail_size(254, 190); // Задаем размеры миниатю
 
 if (function_exists('register_sidebar'))
     register_sidebar(); // Регистрируем сайдбар
-?>
+add_action('template_redirect', 'use_parent_category_template');
 
+// Заменяем точки
 
+function excerpt($num) {
+    $limit = $num-90; //задаем количество выводимых символов в посте (числа могут быть как отрицательные так и положительные)
+    $excerpt = explode(' ', get_the_excerpt(), $limit);
+    array_pop($excerpt);
+    $excerpt = implode(" ",$excerpt)."..."; // добавляем три точки в конец каждого поста
+    echo $excerpt;
+}
+// Для подкатегорий рубрик
 
-<?php add_action('template_redirect', 'use_parent_category_template'); ?>
-
-<?php
 function use_parent_category_template()
 {
     global $cat, $post;
@@ -52,4 +58,5 @@ function use_parent_category_template()
         }
 
     endif;
+
 } ?>

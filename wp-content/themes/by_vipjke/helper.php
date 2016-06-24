@@ -12,8 +12,27 @@ get_header('helper'); // Подключаем хедер?>
     </div>
     <div class="container helper-main-content">
         <div class="row">
-            <div class="col-sm-8 helper-main-col">
-
+            <div class="col-sm-8">
+                <?php
+                if(have_posts()) {
+                    while (have_posts()) {
+                        the_post(); ?>
+                        <div class="row helper-main-col">
+                            <div class="col-sm-4">
+                                <?php the_post_thumbnail('medium', array('alt' => get_the_title(), 'title' => get_the_title())) ?>
+                                <a href="<?php the_permalink() ?>" title="Подробнее">Подробнее</a>
+                            </div>
+                            <div class="col-sm-8">
+                                <h3><?php the_title() ?></h3>
+                                <p><?php the_excerpt(); ?></p>
+                            </div>
+                        </div>
+                    <?php }
+                } else { ?>
+                    <div class="row helper-main-col">
+                        <?php echo wpautop( 'В данной рубрике статей не найдено.' ); ?>
+                    </div>
+                <?php } ?>
             </div>
             <div class="col-sm-1"></div>
             <div class="col-sm-3 helper-aside-col">
@@ -40,4 +59,5 @@ get_header('helper'); // Подключаем хедер?>
             </div>
         </div>
     </div>
+
 <?php get_footer('helper'); ?>
