@@ -9,6 +9,7 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/bower_components/animate.css/animate.min.css">
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/bower_components/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/materials/css/style.css">
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
  <!--[if lt IE 9]>
  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -19,7 +20,7 @@
 <body <?php body_class(); ?>>
 <nav class="helper-nav">
 	<?php
-			$args = array( // Выводим верхнее меню
+			$args = array(
 				'theme_location'=>'top',
 				'container'=>'',
 				'depth'=> 0);

@@ -6,29 +6,29 @@ Description: Чистый шаблон WordPress для разработки
 Author: vipjke
 Author URI: http://
 */
-.page-template-helper {
+.page-template-helper, .category {
   background: url("../img/helper/helper-main-bg.jpg") no-repeat fixed;
   -webkit-background-size: 100%;
   background-size: 100%;
   color: #ffffff;
   margin: 0;
   padding: 0 0 100px; }
-  .page-template-helper nav.helper-nav {
+  .page-template-helper nav.helper-nav, .category nav.helper-nav {
     background: rgba(0, 0, 0, 0.33);
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
     width: 100%;
     margin-bottom: 50px; }
-    .page-template-helper nav.helper-nav ul {
+    .page-template-helper nav.helper-nav ul, .category nav.helper-nav ul {
       list-style-type: none;
       margin: 0;
       padding: 20px 0;
       text-align: right; }
-      .page-template-helper nav.helper-nav ul li {
+      .page-template-helper nav.helper-nav ul li, .category nav.helper-nav ul li {
         display: inline-block;
         margin: 0 20px; }
-        .page-template-helper nav.helper-nav ul li a {
+        .page-template-helper nav.helper-nav ul li a, .category nav.helper-nav ul li a {
           font-family: 'Open Sans Condensed', Arial, sans-serif;
           color: #fff;
           font-size: 18px;
@@ -41,46 +41,64 @@ Author URI: http://
           -moz-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
-          .page-template-helper nav.helper-nav ul li a:hover {
+          .page-template-helper nav.helper-nav ul li a:hover, .category nav.helper-nav ul li a:hover {
             -webkit-transition: all 0.3s ease-in-out;
             -moz-transition: all 0.3s ease-in-out;
             -o-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out;
             color: #2b9e8d; }
-  .page-template-helper .helper-heading-effect {
-    position: absolute;
-    position: relative;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    -moz-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    -o-transform: translateX(-50%);
-    transform: translateX(-50%);
-    top: -30px;
-    height: 60px; }
-    .page-template-helper .helper-heading-effect h1 {
+  .page-template-helper .helper-heading-effect, .category .helper-heading-effect {
+    height: 60px;
+    text-align: center;
+    margin-bottom: 40px; }
+    .page-template-helper .helper-heading-effect h1, .category .helper-heading-effect h1 {
       font-family: 'ffad_matroregular', Arial, sans-serif;
       color: #ffffff;
       font-size: 45px;
       margin: 0;
-      padding: 7px 0 0; }
-      .page-template-helper .helper-heading-effect h1.zoom {
+      padding: 7px 0 0;
+      width: 100%; }
+      .page-template-helper .helper-heading-effect h1.zoom, .category .helper-heading-effect h1.zoom {
         animation-name: zoom;
         animation-duration: 1s; }
-    .page-template-helper .helper-heading-effect span {
+    .page-template-helper .helper-heading-effect span, .category .helper-heading-effect span {
       font-family: 'ffad_matroregular', Arial, sans-serif;
       color: #ffffff;
-      font-size: 45px; }
-  .page-template-helper .helper-main-content .helper-main-col, .page-template-helper .helper-main-content .helper-aside-col {
+      font-size: 45px;
+      margin: 0; }
+  .page-template-helper .helper-main-content .helper-main-col, .category .helper-main-content .helper-main-col {
     background: rgba(0, 0, 0, 0.33);
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
     height: 1000px; }
-  .page-template-helper .helper-main-content .helper-aside-col {
+  .page-template-helper .helper-main-content .helper-aside-col, .category .helper-main-content .helper-aside-col {
     height: 300px;
     position: fixed;
     right: 50px; }
+    .page-template-helper .helper-main-content .helper-aside-col ul, .category .helper-main-content .helper-aside-col ul {
+      list-style-type: none; }
+      .page-template-helper .helper-main-content .helper-aside-col ul.cd-accordion-menu, .category .helper-main-content .helper-aside-col ul.cd-accordion-menu {
+        width: 100%;
+        background: rgba(0, 0, 0, 0.33);
+        -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+        -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+        box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+        margin: 0;
+        padding-left: 0; }
+        .page-template-helper .helper-main-content .helper-aside-col ul.cd-accordion-menu li a, .category .helper-main-content .helper-aside-col ul.cd-accordion-menu li a {
+          width: 100%;
+          background: rgba(0, 0, 0, 0.33);
+          -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+          -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09); }
+        .page-template-helper .helper-main-content .helper-aside-col ul.cd-accordion-menu label, .category .helper-main-content .helper-aside-col ul.cd-accordion-menu label {
+          margin-bottom: 0;
+          width: 100%;
+          background: rgba(0, 0, 0, 0.33);
+          -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+          -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09); }
 
 @font-face {
   font-family: 'ffad_matroregular';

@@ -1,4 +1,7 @@
 jQuery(document).ready(function($){
+
+    // Text helper effect
+
     (function(){
         var heading = $('.helper-heading'),
             text = heading.text();
@@ -15,15 +18,29 @@ jQuery(document).ready(function($){
                 }, 400);
             }
         }, 100);
-        //for (var i = 0; i < text.length; i++) {
-        //    var j = 0;
-        //    var timer = setTimer(function() {
-        //        heading.after('<span>' + text.charAt(text.length - 1 - j) + '</span>');
-        //        j++;
-        //        if (j == text.length - 1) {
-        //            removeTimer()
-        //        }
-        //    }, 1000);
-        //}
+    })();
+
+    // Helper menu
+
+    (function() {
+        var accordionsMenu = $('.cd-accordion-menu'),
+            children = accordionsMenu.find('.children');
+        if( accordionsMenu.length > 0 ) {
+            children.prev().css('display', 'none');
+            for (var i = 0; i < children.prev().length; i++) {
+                var text = children.prev()[i].text;
+                var add = '<input type="checkbox" name ="group-' + text + '" id="group-' + text + '"><label for="group-' + text + '">' + text + '</label>';
+                children[i].classList.add('children-' + i + '');
+                $('.children-' + i + '').before(add);
+            }
+            accordionsMenu.each(function(){
+                var accordion = $(this);
+                accordion.on('change', 'input[type="checkbox"]', function(){
+                    var checkbox = $(this);
+                    // console.log(checkbox.prop('checked'));
+                    ( checkbox.prop('checked') ) ? checkbox.siblings('ul').attr('style', 'display:none;').slideDown(300) : checkbox.siblings('ul').attr('style', 'display:block;').slideUp(300);
+                });
+            });
+        }
     })();
 });
