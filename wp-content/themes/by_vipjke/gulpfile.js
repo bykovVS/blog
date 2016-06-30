@@ -1,8 +1,16 @@
 var gulp = require('gulp'),
     sass = require('gulp-sass'),
     watch = require('gulp-watch'),
-    autoprefixer = require('gulp-autoprefixer');
+    autoprefixer = require('gulp-autoprefixer'),
+    jade = require('gulp-jade');
 
+gulp.task('jade', function() {
+    return gulp.src('jade/*.jade')
+        .pipe(jade({
+            pretty: true
+        }))
+        .pipe(gulp.dest('html/'));
+});
 gulp.task('sass', function() {
     return gulp.src('sass/*.scss')
         .pipe(sass())
@@ -11,6 +19,7 @@ gulp.task('sass', function() {
 
 gulp.task('watch', function() {
     gulp.watch('sass/*.scss', ['sass']);
+    gulp.watch('jade/*.jade', ['jade']);
     //gulp.watch('sass/*.scss', ['default']);
 
 });

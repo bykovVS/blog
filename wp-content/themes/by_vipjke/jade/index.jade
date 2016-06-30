@@ -1,0 +1,59 @@
+mixin openTag(text)
+    span.brackets #{"<"}
+    span.tag #{text}
+    span.brackets #{">"}
+mixin closeTag(text)
+    span.brackets #{"</"}
+    span.tag #{text}
+    span.brackets #{">"}
+mixin innerTag(text)
+    span.text #{text}
+mixin one-attr(text, name, value)
+    span.brackets #{"<"}
+    span.tag #{text}
+    = ' '
+    span.attr #{name}
+    span.val
+        = '="'
+    span.val #{value}
+        = '"'
+    span.brackets #{">"}
+mixin tab(val)
+    - for (var i=1; i<=val*4; i++) {
+        = " "
+    - }
+mixin button(name, text)
+    button.btn.copy-btn(data-clipboard-action="copy" data-clipboard-target="##{name}") #{text}
+
+.code#start
+    .line
+        span.brackets <
+        = '!'
+        span.tag DOCTYPE
+        = ' '
+        span.text html
+        span.brackets >
+    .line
+        +one-attr("html", "lang", "en")
+    .line
+        +openTag("head")
+    .line
+        +tab(1)
+        +one-attr("meta", "charset", "UTF-8")
+    .line
+        +tab(1)
+        +openTag("title")
+        +innerTag("My first web page")
+        +closeTag("title")
+    .line
+        +closeTag("head")
+    .line
+        +openTag("body")
+    .line
+        +tab(1)
+        p This is my first web page
+    .line
+        +closeTag("body")
+    .line
+        +closeTag("html")
+    +button("start", "Копировать")

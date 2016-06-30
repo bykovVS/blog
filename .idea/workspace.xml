@@ -1,14 +1,574 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cb40525-017e-4366-a1e8-28261507817f" name="Default" comment="well aside helper">
+    <list default="true" id="4cb40525-017e-4366-a1e8-28261507817f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-value-example.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/m4/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/vendor/win32-x64-46/binding.node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/jade/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reescape/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reescape/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reescape/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reescape/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reevaluate/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reevaluate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reevaluate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reevaluate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reinterpolate/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reinterpolate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reinterpolate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash._reinterpolate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basecopy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basetostring/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._root/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._root/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/bin/node-sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/binding.gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/lib/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/lib/extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/lib/render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/in-install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/in-install.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/in-publish" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/in-publish.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/mkdirp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/mkdirp.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/node-gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/node-gyp.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/not-in-install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/not-in-install.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/not-in-publish" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/not-in-publish.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/sassgraph" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/.bin/sassgraph.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/lib/gaze.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/lib/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/lib/globule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/examples/g.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/examples/usr-local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/CONTRIBUTORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/sigmund/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/sigmund/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/sigmund/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/sigmund/sigmund.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/node_modules/sigmund/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/test/brace-expand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/test/caching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/test/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/minimatch/test/extglob-ending-with-state-char.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/00-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/bash-comparison.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/bash-results.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/cwd-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/globstar-match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/mark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/new-glob-optional-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/nocase-nomagic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/pause-resume.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/readme-issue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/root-nomount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/stat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/glob/test/zz-cleanup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.compat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.compat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/lodash/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/CONTRIBUTORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/test/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/sigmund.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/brace-expand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/caching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/node_modules/minimatch/test/extglob-ending-with-state-char.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/css/baz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/css/qux.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/deep/deep.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/deep/deeper/deeper.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/deep/deeper/deepest/deepest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/js/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/fixtures/expand/js/foo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/node_modules/globule/test/globule_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/gaze/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/fs.realpath/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/fs.realpath/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/fs.realpath/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/fs.realpath/old.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/fs.realpath/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/inflight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inflight/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/node_modules/wrappy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/node_modules/wrappy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/once/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/path-is-absolute/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/path-is-absolute/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/path-is-absolute/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/node_modules/path-is-absolute/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/glob/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/decamelize/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/decamelize/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/decamelize/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/decamelize/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/map-obj/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/map-obj/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/map-obj/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/map-obj/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/example/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/all_bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/dash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/default_bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/dotted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/kv_short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/num.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/parse_modified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/stop_early.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/unknown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/minimist/test/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/read-pkg-up/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/.bin/strip-indent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/.bin/strip-indent.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/indent-string/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/strip-indent/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/strip-indent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/strip-indent/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/strip-indent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/node_modules/strip-indent/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/node_modules/redent/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/meow/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/asyncworker.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/buffers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/callback.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/converters.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/errors.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/maybe_types.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/methods.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/new.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/node_misc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/object_wrappers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/persistent.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/scopes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/script.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/string_bytes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/v8_internals.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/doc/v8_misc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/include_dirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_callbacks.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_callbacks_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_callbacks_pre_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_converters.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_converters_43_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_converters_pre_43_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_implementation_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_implementation_pre_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_maybe_43_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_maybe_pre_43_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_new.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_object_wrap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_persistent_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_persistent_pre_12_inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_string_bytes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_typedarray_contents.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_weak.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/tools/1to2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/tools/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/tools/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/scripts/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/scripts/coverage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/scripts/install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/scripts/prepublish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/binding.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/callback_bridge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/create_string.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/create_string.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/custom_function_bridge.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/custom_function_bridge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/custom_importer_bridge.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/custom_importer_bridge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass.gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/GNUmakefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/Makefile.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/SECURITY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/configure.ac" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/contrib/libsass.spec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/contrib/plugin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-context-example.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-context-internal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-context.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-doc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-function-example.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-function-internal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-function.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-importer-example.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-importer-internal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-importer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-value-internal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/api-value.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-on-darwin.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-on-gentoo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-on-windows.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-shared-library.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-with-autotools.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-with-makefiles.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-with-mingw.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build-with-visual-studio.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/build.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/compatibility-plan.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/contributing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/custom-functions-internal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/implementations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/plugins.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/setup-environment.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/source-map-internals.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/trace.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/triage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/docs/unicode.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/extconf.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass/base.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass/context.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass/functions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass/values.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass/version.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass/version.h.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/include/sass2scss.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/m4/m4-ax_cxx_compile_stdcxx_11.m4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/res/resource.rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/bootstrap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/branding" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/ci-build-libsass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/ci-install-compiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/ci-install-deps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/ci-report-coverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/spec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/tap-driver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/script/tap-runner" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/GNUmakefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/ast.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/ast.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/ast_def_macros.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/ast_factory.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/ast_fwd_decl.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/b64/cencode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/b64/encode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/backtrace.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/base64vlq.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/base64vlq.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/bind.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/bind.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/c99func.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/cencode.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/color_maps.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/color_maps.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/constants.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/constants.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/context.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/context.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/cssize.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/cssize.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/debug.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/debugger.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/emitter.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/emitter.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/environment.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/environment.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/error_handling.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/error_handling.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/eval.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/eval.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/expand.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/expand.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/extend.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/extend.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/file.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/file.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/functions.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/functions.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/inspect.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/inspect.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/json.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/json.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/kwd_arg_macros.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/lexer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/lexer.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/listize.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/listize.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/mapping.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/memory_manager.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/memory_manager.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/node.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/node.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/operation.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/output.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/output.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/parser.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/parser.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/paths.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/plugins.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/plugins.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/position.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/position.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/prelexer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/prelexer.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/remove_placeholders.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/remove_placeholders.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass2scss.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_context.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_context.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_functions.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_functions.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_util.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_util.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_values.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/sass_values.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/source_map.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/source_map.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/subset_map.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/support/libsass.pc.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/to_c.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/to_c.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/to_value.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/to_value.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/units.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/units.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/utf8.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/utf8/checked.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/utf8/core.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/utf8/unchecked.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/utf8_string.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/utf8_string.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/util.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/util.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/values.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/src/values.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/test/test_node.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/test/test_paths.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/test/test_selector_difference.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/test/test_specificity.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/test/test_subset_map.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/test/test_superselector.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/test/test_unification.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/version.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/win/libsass.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/win/libsass.targets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/win/libsass.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/libsass/win/libsass.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_context_wrapper.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_context_wrapper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/boolean.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/boolean.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/color.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/color.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/error.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/error.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/factory.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/factory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/list.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/list.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/map.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/map.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/null.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/null.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/number.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/number.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/sass_value_wrapper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/string.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/string.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/node_modules/gulp-sass/node_modules/node-sass/src/sass_types/value.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/worked.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.sql" afterPath="$PROJECT_DIR$/blog.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp.txt" afterPath="$PROJECT_DIR$/gulp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/category-2.php" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/category-2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/css/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/footer-helper.php" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/footer-helper.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/gulpfile.js" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/gulpfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/package.json" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper.scss" afterPath="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper.scss" />
     </list>
     <ignored path="blog.lh.iws" />
@@ -31,56 +591,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="category-2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/category-2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="141" selection-start-line="31" selection-start-column="141" selection-end-line="31" selection-end-column="141" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helper.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-              <folding>
-                <marker date="1466759275358" expanded="true" signature="1607:2472" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="1445">
+              <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar-helper.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sidebar-helper.php">
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-              <folding>
-                <element signature="e#6#167#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="worked.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/worked.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_helper.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,48 +634,58 @@
       <file leaf-file-name="_functions.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="105" column="26" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="26" />
+            <state relative-caret-position="-901">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/index.php">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="170">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sidebar.php">
+      <file leaf-file-name="index.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/jade/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="969">
+              <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/page.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulp.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gulp.txt">
+      <file leaf-file-name="header-helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/header-helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="255">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer-helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/footer-helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="105" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -145,7 +701,6 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/by vipjke/style.css" />
         <option value="$PROJECT_DIR$/wp-config-sample.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/wp-content/themes/by vipjke/gulpfile.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/by vipjke/sass/style.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/by vipjke/header_helper.php" />
@@ -159,20 +714,32 @@
         <option value="$PROJECT_DIR$/wp-content/themes/by vipjke/helper.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_fonts.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/css/style.css" />
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/category-helper.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper-menu.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/header-helper.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/style.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sidebar-helper.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/category-2.php" />
         <option value="$PROJECT_DIR$/gulp.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/res.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/send.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/ajax.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/response.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/_post.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/worked.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/jade/index.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/gulpfile.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/footer-helper.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/jade/index.jade" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/html/index.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper.scss" />
       </list>
     </option>
   </component>
@@ -216,8 +783,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -312,88 +877,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.lh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.lh" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="by_vipjke" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="materials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.lh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.lh" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="by_vipjke" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="materials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.lh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.lh" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="by_vipjke" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -420,36 +903,34 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helper" />
+              <option name="myItemId" value="bower_components" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hivemind.lh" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\OpenServer\domains\blog.lh\wp-content\themes\by_vipjke" />
-      <recent name="C:\OpenServer\domains\blog.lh\wp-content\themes\by vipjke\bower_components\bootstrap" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\blog.lh\wp-content\themes\by_vipjke\js" />
       <recent name="D:\OpenServer\domains\blog.lh\wp-content\themes\by_vipjke" />
       <recent name="D:\OpenServer\domains\blog.lh\wp-content\themes\by_vipjke\materials" />
       <recent name="D:\OpenServer\domains\blog.lh\wp-content\themes\by_vipjke\img\helper" />
       <recent name="D:\OpenServer\domains\blog.lh\wp-content\themes\by_vipjke\sass" />
-      <recent name="C:\OpenServer\domains\blog.lh\wp-content\themes\by vipjke" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\blog.lh\wp-content\themes\by_vipjke" />
+      <recent name="C:\OpenServer\domains\blog.lh\wp-content\themes\by vipjke\bower_components\bootstrap" />
     </key>
   </component>
   <component name="RunManager">
@@ -504,7 +985,11 @@
       <workItem from="1466752074868" duration="7725000" />
       <workItem from="1466760149389" duration="509000" />
       <workItem from="1466762162416" duration="1272000" />
-      <workItem from="1466777735976" duration="43000" />
+      <workItem from="1466777735976" duration="88000" />
+      <workItem from="1466778617796" duration="422000" />
+      <workItem from="1467268742828" duration="15123000" />
+      <workItem from="1467291402962" duration="3543000" />
+      <workItem from="1467297198530" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="add gulp">
       <created>1466689851861</created>
@@ -541,27 +1026,34 @@
       <option name="project" value="LOCAL" />
       <updated>1466758358051</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="well aside helper">
+      <created>1466777784454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1466777784454</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16607000" />
+    <option name="totallyTimeSpent" value="36523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28837952" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979744" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32695374" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3318919" sideWeight="0.49697885" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33081082" sideWeight="0.49697885" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3300866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -571,9 +1063,31 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3300866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32695374" sideWeight="0.5030211" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33116883" sideWeight="0.49697885" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2947761" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jade" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -601,90 +1115,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="105" column="26" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/header-helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="133" selection-start-line="9" selection-start-column="133" selection-end-line="9" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1466759275358" expanded="true" signature="1607:2472" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/header-helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="133" selection-start-line="9" selection-start-column="133" selection-end-line="9" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-          <folding>
-            <marker date="1466759275358" expanded="true" signature="1607:2472" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -711,7 +1141,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,13 +1189,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-config-sample.php" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="33" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -795,13 +1217,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/footer-helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -814,7 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,13 +1262,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/header-helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -862,87 +1269,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="105" column="26" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="141" selection-start-line="31" selection-start-column="141" selection-end-line="31" selection-end-column="141" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding>
-            <marker date="1466759275358" expanded="true" signature="1607:2472" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sidebar-helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding>
-            <element signature="e#6#167#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/category-2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,9 +1280,168 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sidebar-helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/category-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/ajax.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/js/ajax.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/js/post.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/response.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/post.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <marker date="1467275707380" expanded="true" signature="1645:2411" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/worked.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/footer-helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="105" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/header-helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/jade/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/sass/_helper.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/by_vipjke/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

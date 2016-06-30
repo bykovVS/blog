@@ -1,19 +1,80 @@
 @import "_functions";
+
 .page-template-helper, .category {
   background: url('../img/helper/helper-main-bg.jpg') no-repeat fixed;
-  -webkit-background-size: 100%;
-  background-size: 100%;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;
   color: #ffffff;
   margin: 0;
   padding: 0 0 100px;
-
+  // pre stylesheets
+  .code {
+    background: #272822;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    font-size: 14px;
+    padding: 10px;
+    border: none;
+    position: relative;
+    .line {
+      p {
+        margin: 0;
+        padding: 0;
+      }
+      .tag {
+        color: #FA1F6C;
+      }
+      .attr {
+        color: #9BE303;
+      }
+      .val {
+        color: #E5DB6C;
+      }
+      .brackets {
+        color: #fff;
+      }
+      .text {
+        color: #fff;
+      }
+    }
+    .copy-btn {
+      background: #272822;
+      position: absolute;
+      right: 14px;
+      top: -30px;
+      @include transition(.3s);
+      &:hover {
+        @include transform(translate(5px, 10px));
+        @include transition(.3s);
+      }
+      &:after {
+        content: '';
+        width: 0;
+        height: 0;
+        border-bottom: 30px solid #272822;
+        border-right: 15px solid transparent;
+        position: absolute;
+        right: -15px;
+        top: 0;
+      }
+      &:before {
+        content: '';
+        width: 0;
+        height: 0;
+        border-bottom: 30px solid #272822;
+        border-left: 15px solid transparent;
+        position: absolute;
+        left: -15px;
+        top: 0;
+      }
+    }
+  }
   // HEADER
 
   nav.helper-nav {
     background: rgba(0, 0, 0, 0.33);
-    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-    -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-    box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
     width: 100%;
     margin-bottom: 50px;
     ul {
@@ -67,9 +128,9 @@
   .helper-main-content {
     .helper-main-col {
       background: rgba(0, 0, 0, 0.33);
-      -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-      -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-      box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+      -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+      -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+      box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
       padding: 50px;
       margin-bottom: 50px;
     }
@@ -82,27 +143,27 @@
         &.cd-accordion-menu {
           width: 100%;
           background: rgba(0, 0, 0, 0.33);
-          -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-          -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-          box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+          -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+          -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
           margin: 0;
           padding-left: 0;
           li {
             a {
               width: 100%;
               background: rgba(0, 0, 0, 0.33);
-              -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-              -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-              box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+              -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+              -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+              box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
             }
           }
           label {
             margin-bottom: 0;
             width: 100%;
             background: rgba(0, 0, 0, 0.33);
-            -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-            -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
-            box-shadow: 0 1px 0 rgba(0,0,0,0.55), inset 0 -1px 0 rgba(255,255,255,0.09);
+            -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+            -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
           }
         }
       }

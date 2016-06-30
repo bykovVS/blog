@@ -8,11 +8,68 @@ Author URI: http://
 */
 .page-template-helper, .category {
   background: url("../img/helper/helper-main-bg.jpg") no-repeat fixed;
-  -webkit-background-size: 100%;
-  background-size: 100%;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;
   color: #ffffff;
   margin: 0;
   padding: 0 0 100px; }
+  .page-template-helper .code, .category .code {
+    background: #272822;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    font-size: 14px;
+    padding: 10px;
+    border: none;
+    position: relative; }
+    .page-template-helper .code .line p, .category .code .line p {
+      margin: 0;
+      padding: 0; }
+    .page-template-helper .code .line .tag, .category .code .line .tag {
+      color: #FA1F6C; }
+    .page-template-helper .code .line .attr, .category .code .line .attr {
+      color: #9BE303; }
+    .page-template-helper .code .line .val, .category .code .line .val {
+      color: #E5DB6C; }
+    .page-template-helper .code .line .brackets, .category .code .line .brackets {
+      color: #fff; }
+    .page-template-helper .code .line .text, .category .code .line .text {
+      color: #fff; }
+    .page-template-helper .code .copy-btn, .category .code .copy-btn {
+      background: #272822;
+      position: absolute;
+      right: 14px;
+      top: -30px;
+      -webkit-transition: all 0.3s ease-in-out;
+      -moz-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out; }
+      .page-template-helper .code .copy-btn:hover, .category .code .copy-btn:hover {
+        -webkit-transform: translate(5px, 10px);
+        -moz-transform: translate(5px, 10px);
+        -ms-transform: translate(5px, 10px);
+        -o-transform: translate(5px, 10px);
+        transform: translate(5px, 10px);
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out; }
+      .page-template-helper .code .copy-btn:after, .category .code .copy-btn:after {
+        content: '';
+        width: 0;
+        height: 0;
+        border-bottom: 30px solid #272822;
+        border-right: 15px solid transparent;
+        position: absolute;
+        right: -15px;
+        top: 0; }
+      .page-template-helper .code .copy-btn:before, .category .code .copy-btn:before {
+        content: '';
+        width: 0;
+        height: 0;
+        border-bottom: 30px solid #272822;
+        border-left: 15px solid transparent;
+        position: absolute;
+        left: -15px;
+        top: 0; }
   .page-template-helper nav.helper-nav, .category nav.helper-nav {
     background: rgba(0, 0, 0, 0.33);
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(255, 255, 255, 0.09);
