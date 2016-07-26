@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>JSENGHELPER</title>
+	<style>
+		a {
+			padding: 10px 30px;
+			border: 1px solid #cecece;
+			background: rgba(0, 0, 0, .1);
+			border-radius: 5px;
+			text-decoration: none;
+			text-transform: uppercase;
+			color: #000;
+			outline: none;
+		}
+		a:hover {
+			text-decoration: none;
+			color: #000;
+			outline: none;
+		}
+		a:focus {
+			text-decoration: none;
+			color: #000;
+			outline: none;
+		}
+		h1 {
+			text-align: center;
+		}
+		.text-center {
+			text-align: center;
+		}
+
+		.dark {
+			position: fixed;
+			background: rgba(0, 0, 0, .5);
+			left: 0;
+			top: 0;
+			width: 100vw;
+			height: 100vh;
+			z-index: 1;
+			display: none;
+		}
+		.dark.open {
+			display: block;
+		}
+		.modal {
+			width: 300px;
+			height: 180px;
+			padding: 10px 20px;
+			background: #cecece;
+			box-shadow: 1px 1px 1px #000;
+			position: absolute;
+			z-index: 2;
+			left: 50%;
+			top: 50%;
+			transform: translate(-50%, -50%);
+			text-align: center;
+			border-radius: 5px;
+		}
+		.modal a {
+			margin-bottom: 20px;
+		}
+		.modal input {
+			display: block;
+			background: #fff;
+			width: calc(300px - 40px);
+			border: 1px solid #000;
+			border-radius: 5px;
+			padding: 10px 20px;
+			margin-bottom: 40px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Get ready to start !?</h1>
+	<div class="text-center">
+		<a href="#" class="start">GO!</a>
+	</div>
+	<div class="dark">
+		<div class="modal">
+			<h2 class="text-center word">Word</h2>
+			<input type="text" placeholder="Enter answer"/>
+			<a href="#" class="ok">Done!</a>
+		</div>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.js"></script>
+	<script>
+		jQuery(document).ready(function($){
+			var words = {
+				'1' : 'firstly-в первую очередь',
+				'2' : 'dull-скучный',
+				'3' : 'make it easier-сделать легче',
+				'4' : 'threw-бросать',
+				'5' : 'from scratch-с нуля',
+				'6' : 'goes on-продолжается',
+				'7' : 'insurance-страховой',
+				'8' : 'facilities-удобства',
+				'9' : 'convey-передавать',
+				'10' : 'headline-заголовок',
+				'11' : 'may be-может быть',
+				'12' : 'involved-учавствует',
+				'13' : 'similar-схожий',
+				'14' : 'although-несмотря на то что',
+				'15' : 'appear-появиться',
+				'16' : 'is made up of characters-состоит из символов',
+				'17' : 'extra forward slash-дополнительный прямой слэш'
+			},
+			result = {
+				rusVal : '',
+				engVal : '',
+				count : 0
+			},
+			getVictory = {
+				count: 10,
+				val: 0
+			}
+			$('.start').click(function(e){
+				var count = 0;
+				e.preventDefault();
+				$('.dark').addClass('open');
+				$('input').val('');
+				for ( var key in words) {
+					count++;
+				};
+				function getRandomInt(min, max) {
+				  return Math.floor(Math.random() * (max - min)) + min;
+				}
+				count++;
+				var rand = getRandomInt(1, count),
+					startWord = words[rand].split('-');
+				result.engVal = startWord[0];
+				result.rusVal = startWord[1]; 
+				$('.word').text(startWord[0]);
+			});
+			$('.ok').click(function(e){
+				e.preventDefault();
+				var text = $('input').val();
+				if (result.rusVal === text) {
+					$('.dark').removeClass('open');
+					getVictory.val += 1;
+					if(getVictory.val == getVictory.count) {
+						alert('Congradulations');	
+						$('body').css('display','none');
+					} else {
+						alert("Done!!!");	
+					}
+				} else {
+					result.count += 1;
+					if (result.count === 3) {
+						alert('Okey, take the answer');
+						$('.dark').removeClass('open');
+						$('h1').text(result.rusVal);
+					} else {
+						alert('The answer is incorrect!');	
+					}
+				}
+			});
+		});
+	</script>
+</body>
+</html>
